@@ -6,7 +6,7 @@
 
 ## How to Run
 *Open the link below in your browser once GitHub Pages is enabled:*
-*https://yourusername.github.io/p5-sketch/ used.*
+*https://github.com/A-serna0415/wcc2-p5-sketch-01.git*
 
 **Instructions:**
 1. Click to pause/start the sketch and music.
