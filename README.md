@@ -1,8 +1,8 @@
-# My p5.js Sketch: Parcticle_System_Music
+# Parcticle_System_Music
 *This project is a creative coding sketch made using p5.js.*
 
 ## Description
-*This is an audio reactive project made with p5.js and its p5.sound library. The project is a particle system that reacts "organically" to a sound input selected from a pre-made list of music.*
+*This is an audio reactive project made with p5.js and its p5.sound library. Is a particle system that reacts "organically" to a sound input selected from a pre-made playlist.*
 
 ## How to Run
 *Open the link below in your browser once GitHub Pages is enabled:*
@@ -16,8 +16,9 @@
 
 ## Tools Used
 1. p5.js
-2. HTML / JavaScript
-3. GitHub Pages
+2. p5.sound
+4. HTML / JavaScript
+5. GitHub Pages
 
 ## Author
 **Andres Serna**
